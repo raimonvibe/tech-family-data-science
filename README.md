@@ -1,6 +1,4 @@
-# 📊 Tech Family – Data Science Sales Dashboard
-
-# 🧠 Tech Family — Sales Dashboard 2023
+# 📊 Tech Family – Data Science Sales Dashboard 2023
 
 [![Sales Dashboard Screenshot](./sales.png)](https://public.tableau.com/app/profile/raimon3989/viz/tech-family-data-science-final/Dashboard1?publish=yes)
 
