@@ -1,10 +1,13 @@
 # 📊 Tech Family – Data Science Sales Dashboard
 
-![Dashboard Screenshot](https://public.tableau.com/static/images/te/tech-family-data-science-final/Dashboard1/1_rss.png)
+# 🧠 Tech Family — Sales Dashboard 2023
 
-🔗 **Live Dashboard**: [Click to view on Tableau Public](https://public.tableau.com/app/profile/raimon3989/viz/tech-family-data-science-final/Dashboard1?publish=yes)
+[![Sales Dashboard Screenshot](./sales.png)](https://public.tableau.com/app/profile/raimon3989/viz/tech-family-data-science-final/Dashboard1?publish=yes)
+
+> 📊 *Click the image to explore the full interactive dashboard on Tableau Public.*
 
 ---
+
 
 ## 📘 Project Description
 
